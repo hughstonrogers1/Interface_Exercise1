@@ -1,0 +1,13 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Interface_Exercise\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.genruntimeconfig.cache
